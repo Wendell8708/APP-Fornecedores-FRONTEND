@@ -1,6 +1,7 @@
 # AutoPart Frontend
 
 Frontend da aplicação **AutoPart**, desenvolvido como **PWA (Progressive Web App)** para gerenciamento de fornecedores de peças e serviços automotivos.
+<img width="1280" height="573" alt="image" src="https://github.com/user-attachments/assets/698db144-9e2a-4999-9619-543413a1602e" />
 
 A interface permite:
 
